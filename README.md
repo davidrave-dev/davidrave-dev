@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=0A71D4&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Full+Stack+Web+Developer;Always+learning+new+things!" alt="Typing SVG" /></a>
+
 <!--
 **davidrave-dev/davidrave-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
